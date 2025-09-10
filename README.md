@@ -1,8 +1,12 @@
 # **Nano-Banana-AIO🍌**
 
-| ![Preview 1](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/6ochDpdS_Uu28oAzOdYwB.png) | ![Preview 1](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/HPWorlMZ54aAbYX5ZO42L.png) | ![Preview 2](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/9iJW5s27TsaFfUiantqNB.png) | ![Preview 3](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/3zvCL16T-U5_wHdxj7-iZ.png) |
-|---|---|---|---|
-| Preview 1 | Preview 2 | Preview 3 | Preview 4 |
+| Preview 1 | Preview 2 |
+|-----------|-----------|
+| ![Preview 1](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/HPWorlMZ54aAbYX5ZO42L.png) | ![Preview 2](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/9iJW5s27TsaFfUiantqNB.png) |
+
+| Preview 3 | Preview 4 |
+|-----------|-----------|
+| ![Preview 3](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/3zvCL16T-U5_wHdxj7-iZ.png) | ![Preview 4](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/6ochDpdS_Uu28oAzOdYwB.png) |
 
 ### Description
 
