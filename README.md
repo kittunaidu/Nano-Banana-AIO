@@ -12,7 +12,7 @@ Nano Banana AIO is a web application built with React and the Google Gemini API 
 
 This project demonstrates integration with the Gemini API for tasks like generating images from prompts and editing existing images based on textual instructions.
 
-| Preview |
+| Preview 5 & 6 |
 |---------|
 | ![Preview 5](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/82vg_RO_epUdBNh66MlYi.png) |
 | ![Preview 6](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/NNpNOVZzh2juU8Hqql8NJ.png) |
