@@ -1,4 +1,4 @@
-# **[Nano-Banana-AIO](https://nano-banana-aio-886892687963.us-west1.run.app)🍌**
+# **[Nano-Banana-AIO](https://huggingface.co/spaces/prithivMLmods/Nano-Banana-AIO)🍌**
 ### Description
 
 Nano Banana AIO is a web application built with React and the Google Gemini API for image generation and editing. It provides an all-in-one interface for creating, editing, and manipulating images using AI-powered tools. The app supports multiple modes including text-to-image generation, single-image editing, multi-image editing, and canvas-based drawing with AI enhancements.
